@@ -8,4 +8,7 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
-
+$("#shoot").click(function(){
+    var gay=$("#input").val();
+    $("#userChoice").text(gay);
+})
