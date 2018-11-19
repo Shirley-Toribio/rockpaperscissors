@@ -2,6 +2,10 @@
   text-align:center;
   
 }
+img{
+  width:40%;
+  
+}
 #choices{
   display:flex;
   justify-content:space-between;
