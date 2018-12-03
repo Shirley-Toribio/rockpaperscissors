@@ -1,16 +1,30 @@
 .row{
   text-align:center;
-  
+}
+body{
+  font-family: 'Bungee', cursive;
+    background-image:url("https://media.giphy.com/media/2t3ABZTkcPRpS/giphy.gif");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed;
 }
 img{
-  width:40%;
-  
+  width:50%;
+  height:10%;
 }
 #choices{
   display:flex;
-  justify-content:space-between;
-  
+  justify-content:space-around;
 }
-background-image{
+div{
+  text-align:center;
+}
+button{
+  border-radius:50%;
+  background-color:black;
+  color:white;
+  border:solid yellow 1px;
+}
+input{
   
 }

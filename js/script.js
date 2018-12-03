@@ -57,4 +57,4 @@ $("#shoot").click(function(){
     }
     $("#computerChoice").text(computerChoice);
     
-})
+});
